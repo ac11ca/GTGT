@@ -1,1 +1,1 @@
-This is the Green Today, Gone Tomorrow (GTGT) experiment
+This is the Green Today, Gone Tomorrow (GTGT) experiment. Christoph will hopefully finish this project :)
